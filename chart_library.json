@@ -1,0 +1,728 @@
+{
+  "styles": {
+    "stacked_bar_chart": [
+      {
+        "source": "ppt模板1.pptx",
+        "slide": 1,
+        "shape_name": "图表 9",
+        "pptx_type": "BAR_STACKED (58)",
+        "series_colors": null,
+        "left": 71,
+        "top": 230,
+        "width": 1111,
+        "height": 235
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 6,
+        "shape_name": "Chart 5",
+        "pptx_type": "COLUMN_STACKED (52)",
+        "series_colors": [
+          "#06D6A0",
+          "#073B4C"
+        ],
+        "left": 655,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 6,
+        "shape_name": "Chart 5",
+        "pptx_type": "COLUMN_STACKED (52)",
+        "series_colors": [
+          "#06D6A0",
+          "#073B4C"
+        ],
+        "left": 655,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      }
+    ],
+    "line_chart": [
+      {
+        "source": "ppt模板1.pptx",
+        "slide": 1,
+        "shape_name": "图表 24",
+        "pptx_type": "LINE (4)",
+        "series_colors": null,
+        "left": 82,
+        "top": 438,
+        "width": 1089,
+        "height": 262
+      },
+      {
+        "source": "ppt模板2.pptx",
+        "slide": 1,
+        "shape_name": "图表 18",
+        "pptx_type": "LINE (4)",
+        "series_colors": null,
+        "left": 371,
+        "top": 153,
+        "width": 875,
+        "height": 286
+      },
+      {
+        "source": "ppt模板2.pptx",
+        "slide": 1,
+        "shape_name": "图表 2",
+        "pptx_type": "LINE (4)",
+        "series_colors": null,
+        "left": 381,
+        "top": 434,
+        "width": 875,
+        "height": 286
+      },
+      {
+        "source": "ppt模板3.pptx",
+        "slide": 1,
+        "shape_name": "图表 18",
+        "pptx_type": "LINE (4)",
+        "series_colors": [
+          "#06BDB6"
+        ],
+        "left": 77,
+        "top": 182,
+        "width": 557,
+        "height": 264
+      },
+      {
+        "source": "ppt模板3.pptx",
+        "slide": 1,
+        "shape_name": "图表 3",
+        "pptx_type": "LINE (4)",
+        "series_colors": [
+          "#06BDB6"
+        ],
+        "left": 653,
+        "top": 182,
+        "width": 548,
+        "height": 264
+      },
+      {
+        "source": "ppt模板4.pptx",
+        "slide": 1,
+        "shape_name": "图表 18",
+        "pptx_type": "LINE (4)",
+        "series_colors": [
+          "#06BDB6"
+        ],
+        "left": 55,
+        "top": 187,
+        "width": 574,
+        "height": 264
+      },
+      {
+        "source": "ppt模板4.pptx",
+        "slide": 1,
+        "shape_name": "图表 3",
+        "pptx_type": "LINE (4)",
+        "series_colors": [
+          "#06BDB6"
+        ],
+        "left": 651,
+        "top": 197,
+        "width": 579,
+        "height": 254
+      },
+      {
+        "source": "ppt模板5.pptx",
+        "slide": 1,
+        "shape_name": "图表 1",
+        "pptx_type": "LINE (4)",
+        "series_colors": [
+          "#C00000"
+        ],
+        "left": 320,
+        "top": 224,
+        "width": 454,
+        "height": 216
+      },
+      {
+        "source": "ppt模板5.pptx",
+        "slide": 1,
+        "shape_name": "图表 3",
+        "pptx_type": "LINE (4)",
+        "series_colors": [
+          "#C00000"
+        ],
+        "left": 792,
+        "top": 218,
+        "width": 417,
+        "height": 213
+      },
+      {
+        "source": "ppt模板6.pptx",
+        "slide": 1,
+        "shape_name": "图表 18",
+        "pptx_type": "LINE (4)",
+        "series_colors": [
+          "#06BDB6",
+          "#F2BA02",
+          "#EE822F"
+        ],
+        "left": 381,
+        "top": 136,
+        "width": 875,
+        "height": 286
+      },
+      {
+        "source": "ppt模板6.pptx",
+        "slide": 1,
+        "shape_name": "图表 2",
+        "pptx_type": "LINE (4)",
+        "series_colors": [
+          "#06BDB6",
+          "#F2BA02",
+          "#EE822F"
+        ],
+        "left": 381,
+        "top": 422,
+        "width": 875,
+        "height": 286
+      },
+      {
+        "source": "ppt模板6.pptx",
+        "slide": 2,
+        "shape_name": "图表 18",
+        "pptx_type": "LINE (4)",
+        "series_colors": [
+          "#06BDB6",
+          "#F2BA02",
+          "#EE822F"
+        ],
+        "left": 348,
+        "top": 144,
+        "width": 923,
+        "height": 282
+      },
+      {
+        "source": "ppt模板6.pptx",
+        "slide": 2,
+        "shape_name": "图表 2",
+        "pptx_type": "LINE (4)",
+        "series_colors": [
+          "#06BDB6",
+          "#F2BA02",
+          "#EE822F"
+        ],
+        "left": 348,
+        "top": 422,
+        "width": 923,
+        "height": 286
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 3,
+        "shape_name": "Chart 3",
+        "pptx_type": "LINE_MARKERS (65)",
+        "series_colors": [
+          "#3A0CA3",
+          "#4361EE",
+          "#4CC9F0",
+          "#7209B7",
+          "#F72585",
+          "#4895EF"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 1200,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 3,
+        "shape_name": "Chart 3",
+        "pptx_type": "LINE_MARKERS (65)",
+        "series_colors": [
+          "#3A0CA3",
+          "#4361EE",
+          "#4CC9F0",
+          "#7209B7",
+          "#F72585",
+          "#4895EF"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 1200,
+        "height": 562
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 2,
+        "shape_name": "Chart 3",
+        "pptx_type": "LINE_MARKERS (65)",
+        "series_colors": null,
+        "left": 40,
+        "top": 118,
+        "width": 1200,
+        "height": 562
+      }
+    ],
+    "column_chart": [
+      {
+        "source": "ppt模板2.pptx",
+        "slide": 1,
+        "shape_name": "图表 7",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": null,
+        "left": 22,
+        "top": 141,
+        "width": 349,
+        "height": 282
+      },
+      {
+        "source": "ppt模板2.pptx",
+        "slide": 1,
+        "shape_name": "图表 8",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": null,
+        "left": 22,
+        "top": 422,
+        "width": 349,
+        "height": 286
+      },
+      {
+        "source": "ppt模板5.pptx",
+        "slide": 1,
+        "shape_name": "图表 4",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": [
+          "#FF0000"
+        ],
+        "left": 26,
+        "top": 222,
+        "width": 277,
+        "height": 201
+      },
+      {
+        "source": "ppt模板6.pptx",
+        "slide": 1,
+        "shape_name": "图表 7",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": null,
+        "left": 22,
+        "top": 141,
+        "width": 349,
+        "height": 282
+      },
+      {
+        "source": "ppt模板6.pptx",
+        "slide": 1,
+        "shape_name": "图表 8",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": null,
+        "left": 22,
+        "top": 422,
+        "width": 349,
+        "height": 286
+      },
+      {
+        "source": "ppt模板6.pptx",
+        "slide": 2,
+        "shape_name": "图表 7",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": null,
+        "left": 22,
+        "top": 141,
+        "width": 349,
+        "height": 282
+      },
+      {
+        "source": "ppt模板6.pptx",
+        "slide": 2,
+        "shape_name": "图表 8",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": null,
+        "left": 22,
+        "top": 422,
+        "width": 349,
+        "height": 286
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 2,
+        "shape_name": "Chart 3",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": [
+          "#2B4570"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 4,
+        "shape_name": "Chart 3",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": [
+          "#A47864"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 7,
+        "shape_name": "Chart 3",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": [
+          "#06D6A0"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 11,
+        "shape_name": "Chart 3",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": [
+          "#3A0CA3"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 1200,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 2,
+        "shape_name": "Chart 3",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": [
+          "#2B4570"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 4,
+        "shape_name": "Chart 3",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": [
+          "#A47864"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 7,
+        "shape_name": "Chart 3",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": [
+          "#06D6A0"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 11,
+        "shape_name": "Chart 3",
+        "pptx_type": "COLUMN_CLUSTERED (51)",
+        "series_colors": [
+          "#3A0CA3"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 1200,
+        "height": 562
+      }
+    ],
+    "pie_chart": [
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 2,
+        "shape_name": "Chart 5",
+        "pptx_type": "DOUGHNUT (-4120)",
+        "series_colors": null,
+        "left": 655,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 4,
+        "shape_name": "Chart 5",
+        "pptx_type": "DOUGHNUT (-4120)",
+        "series_colors": null,
+        "left": 655,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 5,
+        "shape_name": "Chart 5",
+        "pptx_type": "DOUGHNUT (-4120)",
+        "series_colors": null,
+        "left": 655,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 6,
+        "shape_name": "Chart 3",
+        "pptx_type": "DOUGHNUT (-4120)",
+        "series_colors": null,
+        "left": 40,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 7,
+        "shape_name": "Chart 5",
+        "pptx_type": "DOUGHNUT (-4120)",
+        "series_colors": null,
+        "left": 655,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 9,
+        "shape_name": "Chart 3",
+        "pptx_type": "DOUGHNUT (-4120)",
+        "series_colors": null,
+        "left": 40,
+        "top": 118,
+        "width": 1200,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 2,
+        "shape_name": "Chart 5",
+        "pptx_type": "DOUGHNUT (-4120)",
+        "series_colors": null,
+        "left": 655,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 4,
+        "shape_name": "Chart 5",
+        "pptx_type": "DOUGHNUT (-4120)",
+        "series_colors": null,
+        "left": 655,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 5,
+        "shape_name": "Chart 5",
+        "pptx_type": "DOUGHNUT (-4120)",
+        "series_colors": null,
+        "left": 655,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 6,
+        "shape_name": "Chart 3",
+        "pptx_type": "DOUGHNUT (-4120)",
+        "series_colors": null,
+        "left": 40,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 7,
+        "shape_name": "Chart 5",
+        "pptx_type": "DOUGHNUT (-4120)",
+        "series_colors": null,
+        "left": 655,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 9,
+        "shape_name": "Chart 3",
+        "pptx_type": "DOUGHNUT (-4120)",
+        "series_colors": null,
+        "left": 40,
+        "top": 118,
+        "width": 1200,
+        "height": 562
+      }
+    ],
+    "horizontal_bar_chart": [
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 5,
+        "shape_name": "Chart 3",
+        "pptx_type": "BAR_CLUSTERED (57)",
+        "series_colors": [
+          "#E63946"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 8,
+        "shape_name": "Chart 3",
+        "pptx_type": "BAR_CLUSTERED (57)",
+        "series_colors": [
+          "#005F73"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 1200,
+        "height": 562
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 10,
+        "shape_name": "Chart 7",
+        "pptx_type": "BAR_CLUSTERED (57)",
+        "series_colors": [
+          "#D9A066"
+        ],
+        "left": 860,
+        "top": 118,
+        "width": 380,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 5,
+        "shape_name": "Chart 3",
+        "pptx_type": "BAR_CLUSTERED (57)",
+        "series_colors": [
+          "#E63946"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 585,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 8,
+        "shape_name": "Chart 3",
+        "pptx_type": "BAR_CLUSTERED (57)",
+        "series_colors": [
+          "#005F73"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 1200,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 10,
+        "shape_name": "Chart 7",
+        "pptx_type": "BAR_CLUSTERED (57)",
+        "series_colors": [
+          "#D9A066"
+        ],
+        "left": 860,
+        "top": 118,
+        "width": 380,
+        "height": 562
+      }
+    ],
+    "radar_chart": [
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 10,
+        "shape_name": "Chart 3",
+        "pptx_type": "RADAR_FILLED (82)",
+        "series_colors": [
+          "#2B4570"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 380,
+        "height": 562
+      },
+      {
+        "source": "data3_分析报告.pptx",
+        "slide": 10,
+        "shape_name": "Chart 5",
+        "pptx_type": "RADAR_FILLED (82)",
+        "series_colors": [
+          "#4361EE"
+        ],
+        "left": 450,
+        "top": 118,
+        "width": 380,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 10,
+        "shape_name": "Chart 3",
+        "pptx_type": "RADAR_FILLED (82)",
+        "series_colors": [
+          "#2B4570"
+        ],
+        "left": 40,
+        "top": 118,
+        "width": 380,
+        "height": 562
+      },
+      {
+        "source": "data3_test2.pptx",
+        "slide": 10,
+        "shape_name": "Chart 5",
+        "pptx_type": "RADAR_FILLED (82)",
+        "series_colors": [
+          "#4361EE"
+        ],
+        "left": 450,
+        "top": 118,
+        "width": 380,
+        "height": 562
+      }
+    ]
+  },
+  "scanned_files": {
+    "ppt模板1.pptx": "ppt模板1.pptx:213012:1778052537",
+    "ppt模板2.pptx": "ppt模板2.pptx:2094879:1778052534",
+    "ppt模板3.pptx": "ppt模板3.pptx:318725:1778052546",
+    "ppt模板4.pptx": "ppt模板4.pptx:306308:1778052542",
+    "ppt模板5.pptx": "ppt模板5.pptx:173635:1778052549",
+    "ppt模板6.pptx": "ppt模板6.pptx:351121:1778052553",
+    "data3_分析报告.pptx": "data3_分析报告.pptx:154168:1778295279",
+    "data3_test2.pptx": "data3_test2.pptx:153816:1778289467"
+  }
+}
